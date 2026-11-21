@@ -1,0 +1,6 @@
+{
+  "name": "BEAUTIVA",
+  "description": "Nowoczesny magazyn i portal internetowy o tematyce beauty: pielęgnacja skóry, włosy, kosmetyki i świadoma uroda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
